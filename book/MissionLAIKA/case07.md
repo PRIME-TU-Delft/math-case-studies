@@ -1,5 +1,12 @@
 # Invertibility of matrices: Looking from a different angle
+{bdg-success}`Slides`
+
 #### Mission LAIKA: Looking from a different angle
+
+```{admonition} Tip
+:class: tip
+_The following can be set as slides in a lecture presentation introducing invertibility of matrices._
+```
 
 Let's say that the direction vector of the airplane is $\vec{x} = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}$. 
 After several maneuvers in the air (rotations) it changed. 
@@ -34,9 +41,7 @@ $R_z(\theta) = \begin{bmatrix}
 <img width="610" height="352" alt="image" src="https://github.com/user-attachments/assets/416d8eca-644c-4b74-bb5c-74f59eefd88f" />
 
 
-### Grasple
-
-
+<!-- ### Grasple
 
 From the Grasple exercise on Mission LAIKA: Pitch Perfect, remember that the matrix expression for the combination of all rotations, performed in the order yaw, then pitch, and finally roll, is given by: \
 $A = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi) =$
@@ -45,9 +50,41 @@ $A = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi) =$
 \cos(\theta)\cos(\psi) & -\cos(\theta)\sin(\psi) & \sin(\theta) \\
 \sin(\phi)\sin(\theta)\cos(\psi) + \cos(\phi)\sin(\psi) & -\sin(\phi)\sin(\theta)\sin(\psi) + \cos(\phi)\cos(\psi) & -\sin(\phi)\cos(\theta) \\
 -\cos(\phi)\sin(\theta)\cos(\psi) + \sin(\phi)\sin(\psi) & \cos(\phi)\sin(\theta)\sin(\psi) + \sin(\phi)\cos(\psi) & \cos(\phi)\cos(\theta)
-\end{array}\right]$
+\end{array}\right]$ -->
 
-### MC Exercise:
+### Polling Question
+
+From the Grasple exercise on Mission LAIKA: Pitch Perfect, remember that the matrix expression for the combination of all rotations, performed in the order yaw, then pitch, and finally roll, is given by:
+
+$$A = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi)= 
+\begin{bmatrix}
+\cos(\theta)\cos(\psi) & -\cos(\theta)\sin(\psi) & \sin(\theta) \\
+\sin(\phi)\sin(\theta)\cos(\psi)+\cos(\phi)\sin(\psi) & -\sin(\phi)\sin(\theta)\sin(\psi)+\cos(\phi)\cos(\psi) & -\sin(\phi)\cos(\theta) \\
+-\cos(\phi)\sin(\theta)\cos(\psi)+\sin(\phi)\sin(\psi) & \cos(\phi)\sin(\theta)\sin(\psi)+\sin(\phi)\cos(\psi) & \cos(\phi)\cos(\theta)
+\end{bmatrix}$$
+
+#### MC Exercise
+
+Given:
+
+$A = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi)$
+
+What is $A^{-1}$?
+
+**A)**  $A^{-1}=A_{yaw}(\psi)A_{pitch}(\theta)A_{roll}(\phi)$
+
+**B)**  $A^{-1}=A_{roll}(-\phi)A_{pitch}(-\theta)A_{yaw}(-\psi)$
+
+
+**C)**  $A^{-1}=A_{yaw}(-\psi)A_{pitch}(-\theta)A_{roll}(-\phi)$
+
+
+**D)**  $A^{-1}=A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi)$
+
+
+**Answer: C**
+
+<!-- ### MC Exercise:
 $A = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi) \\$
 
 What is $A^{-1}$?
@@ -58,7 +95,7 @@ B)  $A^{-1} = A_{roll}(-\phi)A_{pitch}(-\theta)A_{yaw}(-\psi)$ \
 C)  $A^{-1} = A_{yaw}(-\psi)A_{pitch}(-\theta)A_{roll}(-\phi)$ \
 D)  $A^{-1} = A_{roll}(\phi)A_{pitch}(\theta)A_{yaw}(\psi)$\ 
 
-=> C
+=> C --> 
 
-<img src="../MissionLAIKA/img/case7-2.png">
+<!-- <img src="../MissionLAIKA/img/case7-2.png">
 

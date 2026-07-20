@@ -1,7 +1,12 @@
 # Solution sets and linear independence: Are we lost?
+{bdg-success}`Slides`
+
 ## Mission LAIKA: Are we lost?
 
+```{admonition} Tip
+:class: tip
 _The following can be set as slides in a lecture presentation introducing theorem of linear independence._
+```
 
 A satellite can change its direction with its thrusters. It wants to avoid the space debris. Is the current configuration of thrusters sufficient to avoid a collision?
 <img src="../MissionLAIKA/img/case3-1.png">
@@ -15,7 +20,7 @@ Does the satellite need extra thrusters to move in the direction of $\vec{v}$?
 
 
 The vector $\vec{v}$ can be written as a linear combination of $\vec{u_1}$ and $\vec{u_2}$. We do not need extra thrusters.\
-The vectors $\vec{u_1}$, $\vec{u_2}$ and $\vec{v}$ are called \underline{linearly dependent}.
+The vectors $\vec{u_1}$, $\vec{u_2}$ and $\vec{v}$ are called <u>linearly dependent</u>.
 
 <img src="../MissionLAIKA/img/case3-3.png">
 
