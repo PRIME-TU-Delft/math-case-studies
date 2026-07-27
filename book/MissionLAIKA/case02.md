@@ -1,7 +1,15 @@
 # Spans and vector equations: Into the span!
+{bdg-success}`Slides`
+
 ## Mission LAIKA: Into the span!
 
+```{admonition} Tip
+:class: tip
+
 _The following can be set as slides in a lecture presentation introducing the definition of a Linear combination._
+```
+
+
 
 The Cessna Citation II flies in the $xyz$-coordinate system. The aircraft starts turning from its current position $\vec x_0$, with velocity $\vec v_0$ and acceleration $\vec a$
 
