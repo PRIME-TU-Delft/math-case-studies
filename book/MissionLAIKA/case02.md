@@ -26,3 +26,5 @@ This means that the trajectory of the airplane lies in the plane spanned by the 
 <img src="../MissionLAIKA/img/case2-3.png">
 
 ### Grasple
+
+<iframe height="560" src="https://embed.grasple.com/exercises/ab0c1e9e-4b0a-4ddb-b7ad-6b8f57871cce?id=115631" title="Grasple Exercise 115631" width="100%" allow="clipboard-read; clipboard-write"></iframe>

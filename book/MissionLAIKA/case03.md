@@ -25,3 +25,5 @@ The vectors $\vec{u_1}$, $\vec{u_2}$ and $\vec{v}$ are called <u>linearly depend
 <img src="../MissionLAIKA/img/case3-3.png">
 
 ### Grasple
+
+<iframe height="560" src="https://embed.grasple.com/exercises/f8dbcd44-c5db-45f3-bdf0-58c8fd270993?id=115632" title="Grasple Exercise 115632" width="100%" allow="clipboard-read; clipboard-write"></iframe>
