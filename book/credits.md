@@ -20,7 +20,7 @@ To recreate the website you have two options (more information in the [TeachBook
 
 ## License
 This book is [CC BY 4.0 licensed](https://creativecommons.org/licenses/by/4.0/) allowing you to share and adapt the material, as long as the source is named. External resources that are reused in this book are listed below.
-
+<!-- 
 (external_resources)=
 ### External resources
 
@@ -36,4 +36,4 @@ The following pages contain content written by others, part of has been reused a
 (editor)=
 ## About the Editors
 
-### Acknowledgements
+### Acknowledgements -->
