@@ -62,6 +62,17 @@ Marvin Soetanto,
 Robbert Winkel, 
 Mark van Huystee
 
-## Technical Documentation
+## Documentation
 
+### Source Code
 For more information regarding technical details, source code, and code development visit the [Mission LAIKA repository](https://github.com/PRIME-TU-Delft/MissionLAIKA).
+
+### Case Study Guide
+For information regarding lessons learnt in the process of developing case studies and general guidelines that were followed, see the following General Guidelines document.
+
+```{iframe} img/CSguide.pdf
+:width: 100%
+:height: 800px
+```
+
+### Decisions Made
