@@ -75,4 +75,10 @@ For information regarding lessons learnt in the process of developing case studi
 :height: 800px
 ```
 
-### Decisions Made
+### Manim Info 
+For information regarding Manim implementation choices for case study animations, see the following Manim info sheet.
+
+```{iframe} img/PRIME_Manim_Info_Sheet_from_MD.pdf
+:width: 100%
+:height: 800px
+```
