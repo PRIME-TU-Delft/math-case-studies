@@ -48,11 +48,12 @@ This portfolio is a draft collection of the materials. The portfolio is based on
 - Angelo Cervone (Aerospace Design & Systems Engineering Elements) 
 - Carmine Varriale (Flight & Orbital Mechanics)
 - Daniël Peeters (Mechanics of Materials)
-- M.I. Gerritsma (Physics)
-- J. Sodja (Vibrations)
+- Marc Gerritsma (Physics)
+- Jurij Sodja (Vibrations)
 - Saullo Giovani Pereira Castro (Dynamics) 
 - Calvin Rans (Structural Analysis & Design)
 - Joris Melkert
+- Eddy van den Bos
 
 #### For the support, feedback and collaboration:
 The [PRIME](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/studeren/prime) team
